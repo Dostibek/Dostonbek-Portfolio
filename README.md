@@ -1,2 +1,2 @@
-# Dostonbek-Portfolio
+# Dostonbek-HTML/Portfolio
 My Portfolio
